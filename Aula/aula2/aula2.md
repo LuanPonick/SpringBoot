@@ -1,6 +1,10 @@
 # Aula 2
-- node Modeule
-- angular material
+- Node Modeule
+- Obs sobre as Bibliotecas - `package.json`
+- Arquivo de configuração do projeto - `angular.json`
+- environments
+- iniciar projeto
+- Angular material
 
 
 > ## Node Modeule
