@@ -17,6 +17,11 @@ Aulas/Extra 1: https://www.youtube.com/watch?v=6jZ0ewVQP0Y&ab_channel=LoianeGron
 >> ### Aula 3
 >>> - import de componentes de ui angular > 17 
 >>> - Importando toolbar
+>> ### Aula 4
+>>> - Gerando modulos com CLI
+>>>   - Simplificação
+>>> - Gerando componente com CLI
+>>>   - Simplificação
 
 > ## Sumario Extras
 >> ### Extras 1
