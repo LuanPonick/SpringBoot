@@ -1,0 +1,8 @@
+- interface route
+- extends
+- logica de rotas no projeto
+    - novo
+    - antigo
+- loadComponent
+- Component
+- Routchield
