@@ -1,8 +1,10 @@
 # SpringBoot - aulas
 
-https://www.youtube.com/watch?v=PqVuSKCk_OU&list=PLGxZ4Rq3BOBpwaVgAPxTxhdX_TfSVlTcY&index=2&ab_channel=LoianeGroner
+Aulas/aulas: https://www.youtube.com/watch?v=PqVuSKCk_OU&list=PLGxZ4Rq3BOBpwaVgAPxTxhdX_TfSVlTcY&index=2&ab_channel=LoianeGroner
 
-> ## Sumarios aulas: 
+Aulas/Extra 1: https://www.youtube.com/watch?v=6jZ0ewVQP0Y&ab_channel=LoianeGroner
+
+> ## Sumario aulas: 
 >> ### Aula 1
 >>> Comandos para iniciar projeto angular, intalção do node e instalção global do angular.
 >> ### Aula 2
@@ -15,3 +17,8 @@ https://www.youtube.com/watch?v=PqVuSKCk_OU&list=PLGxZ4Rq3BOBpwaVgAPxTxhdX_TfSVl
 >> ### Aula 3
 >>> - import de componentes de ui angular > 17 
 >>> - Importando toolbar
+
+> ## Sumario Extras
+>> ### Extras 1
+>> - Angular moderno
+>> - Mudanças implementadas ao angular moderno
