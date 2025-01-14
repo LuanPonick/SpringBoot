@@ -22,6 +22,10 @@ Aulas/Extra 1: https://www.youtube.com/watch?v=6jZ0ewVQP0Y&ab_channel=LoianeGron
 >>>   - Simplificação
 >>> - Gerando componente com CLI
 >>>   - Simplificação
+>> ### Aula8
+>>> - Gerando Serviço
+>>> - Configuração de serviço
+>>> - Instancia de serviço
 
 > ## Sumario Extras
 >> ### Extras 1
